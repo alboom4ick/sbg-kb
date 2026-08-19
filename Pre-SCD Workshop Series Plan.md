@@ -31,6 +31,7 @@ Rationale: marketing and technical-review load is spread across people who are *
 ## Standard checklist per online workshop (repeat for #1–#4)
 
 **T–1 week (by the Thursday before)**
+- [ ] Presenter copies the official SBG deck from [`01- Creative Assets _ Fonts, Icons, Etc./Presentation Template/AWS_StudentBuilderGroups_PPTTemplate_Final .pptx`](<01- Creative Assets _ Fonts, Icons, Etc./Presentation Template/AWS_StudentBuilderGroups_PPTTemplate_Final .pptx>) and builds their slides on it, so branding stays consistent across the series
 - [ ] Presenter confirms which module(s)/hands-on labs fit the ~1.5–2hr slot (trim if the full Workshop Studio lab runs longer)
 - [ ] Presenter confirms account-access model: self-service AWS account vs. AWS-provisioned event access code. If the latter, request codes from the AWS SBG program contact **now** — provisioning can take several days
 - [ ] Technical reviewer (Adilet/Assylbek, whichever isn't presenting) does a dry-run of the deck/lab with the presenter
