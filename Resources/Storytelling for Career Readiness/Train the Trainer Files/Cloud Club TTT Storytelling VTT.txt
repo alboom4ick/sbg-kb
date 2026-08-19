@@ -1,0 +1,802 @@
+﻿File: Video Project 5
+---
+
+Welcome, and thanks for stepping into the
+
+facilitator role for Cloud Club – 
+
+Storytelling for Career Readiness
+
+Workshop. This short Train the Trainer is
+
+designed to prepare you to confidently
+
+deliver the full 2-hour instructor-led
+
+session. Over the next 20 minutes or so,
+
+I will walk you through how the entire
+
+program fits together, how to use each
+
+asset and most importantly, how to
+
+facilitate this experience without
+
+feeling like you need to be an expert
+
+storyteller. 
+
+This Train the Trainer is not a replay of
+
+the learner workshop. I will walk you
+
+through the slides. My deck will look
+
+slightly different because this is the
+
+Train the Trainer deck, but really your
+
+learners will experience that directly.
+
+This session is about the how: how to
+
+guide discussion, how to protect practice
+
+time, and how to use the materials
+
+effectively. Think of this as the
+
+facilitators map, not the script you need
+
+to read word for word.
+
+So, at the center of the program is
+
+the 2-hour instructor-led training
+
+workshop. Everything else exists to
+
+support, reinforce, or extend what
+
+happens there. The Facilitator Guide
+
+provides you with detailed notes related
+
+to the content and activities. The
+
+Participant Guide will provide the
+
+learners with the space to make notes, 
+
+participate in the activities, and they
+
+can refer to it post-training when they
+
+have questions. The practice assets,
+
+including the Mock Interview Kit and
+
+Scenario Pack, create realism.
+
+The 12-Day Challenge helps learners
+
+apply what they've learned after the
+
+workshop ends, and the short eLearning
+
+modules build specific skills.
+
+So, let's zoom in to the 2-hour workshop
+
+itself. You do not need to memorize 
+
+every slide, but you do need to
+
+understand the flow. And so, this is the
+
+agenda where we start with a warm-up,
+
+then we go into storytelling frameworks,
+
+and we give them an opportunity to work
+
+on group story-building, interview 
+
+role-plays, and talk about their personal 
+
+story and brief introduction. And then, 
+
+we wrap it up. It's a very full 2 hours
+
+that will go by very quickly. So, the
+
+design intentionally alternates between
+
+short concept introductions and hands-on
+
+practice, and your role is really to keep
+
+that rhythm moving.
+
+So, Why Storytelling Matters? This opening 
+
+section is about relevance. Learners 
+
+do not need theory. They need to
+
+understand why this matters for
+
+interviews, networking, and confidence.
+
+And so, the idea here is to keep
+
+this section tight. One or two 
+
+learner examples is enough. What I
+
+would caution against is letting this
+
+turn into a very long discussion because
+
+it will impact the practice time.
+
+So, the warm-up is cloud in a post.
+
+They are going to write one sentence, and
+
+it's simply just explaining one thing
+
+they've learned in their course. And the
+
+idea is to write it is if they were
+
+posting it on social media for someone
+
+who knows absolutely nothing about the
+
+cloud or technology. And so, the idea is
+
+really keep it short. We give them about
+
+3 minutes, and you can either let them go
+
+ahead now or you can share these examples
+
+on the next slide so that they have some
+
+frame of reference to understand what it
+
+is we're looking for from them.
+
+Then, we will briefly talk about why
+
+streamlining is difficult, and this
+
+really ties back to the default—
+
+to those technical explanations. But we
+
+do need to remind them that interviewers
+
+might not share their background and how
+
+important it is to be clear versus
+
+providing detail. They can always provide
+
+the detail if they're probed further
+
+for that or asked to provide that.
+
+Then, we will get into what I call the
+
+Anatomy of a Career Story, and this is
+
+where we introduce the framework. And
+
+think of this as a scaffold, not a
+
+script. We really want to encourage
+
+learners here to map their experiences
+
+without trying to perfect their wording.
+
+The goal is really about clarity. It's
+
+not about having polished, exact answers.
+
+So, we introduce the STAR storytelling
+
+framework. We explain situation, task,
+
+action, and result, and we have
+
+an example here.
+
+And then, we share a behavioral question—
+
+the tell me about a time when—
+
+and show them an example how they
+
+can use STAR effectively to answer that
+
+question. We do
+
+another example, and this is where we take
+
+one of the examples that we gave them
+
+earlier in the warm-up, and expand that
+
+into a star response.
+
+Then, we will go into Cutting the Jargon.
+
+And this section often feels
+
+uncomfortable for learners, and that's
+
+OK. Your job isn't to correct them, it's
+
+to help them translate it, to guide them,
+
+really. So, you can ask questions like,
+
+"How would you explain that to someone
+
+outside your program?" to get them to
+
+where they need to, you know, be
+
+aware of when they are using jargon
+
+too much. So, we will share this 
+
+jargon-heavy IoT explanation, and then, 
+
+we will show this clear business story 
+
+so that they can see the difference. And
+
+we will explain why it works. It has a
+
+clear structure, it uses plain language,
+
+talks about the business impact, and
+
+there's that human or customer centered
+
+explanation. Now, here's the most 
+
+important part of the workshop, I think. 
+
+And I would suggest that you try to 
+
+protect this time as much as possible 
+
+because the value of this program lives 
+
+in the practice and the feedback, 
+
+not necessarily in the slides. So, 
+
+please keep instructions clear, keep 
+
+the energy up, and try to keep 
+
+debriefs really focused. So, the first 
+
+thing they will do is work on 
+
+story-building. So, we will put them
+
+in pairs. The idea is just to either let
+
+them choose a scenario, or you may want to
+
+choose that scenario for them. And they
+
+need to build a 2–3-minute story
+
+using STAR. You will have two
+
+scenario examples for each of these 
+
+topics—the smart campus to
+
+healthcare, agriculture, and logistics—
+
+so you can choose. And these are the 
+
+instructions: draft a story, practice 
+
+delivering it, and be prepared to share. 
+
+And then, we will ask them to share that 
+
+in a group debrief. Then, we will move on 
+
+to interview role-plays. And this is 
+
+where we will put them into triads. 
+
+I always recommend putting them in 
+
+different groups as much as possible. 
+
+So, up to you how you want to manage 
+
+your classroom, but I do like to give 
+
+them that opportunity to interact with 
+
+a number of folks who are in the 
+
+session as much as possible. The
+
+idea is to have everyone rotate through
+
+each role. So, everyone will be the 
+
+interviewer, everyone will be the 
+
+candidate, and everyone will be the
+
+observer. And the idea here is give them
+
+that opportunity to practice clarity
+
+under pressure. So, you can share these 
+
+technical interview prompts for them to 
+
+consider as they're doing these interviews. 
+
+So, if it's around the data flow, maybe 
+
+it's a question of: "How does a device
+
+communicate. Explain the architecture."
+
+That could be a question. If it's
+
+a non-technical interview, you may ask: 
+
+"So, you know, share that with me. How does
+
+this save money? How does this improve
+
+the user experience? Why does this matter?"
+
+For the observer, this is kind of
+
+a checklist or a guide for them
+
+as they're observing the interaction, the
+
+interview. What was clear? What was
+
+confusing? Where did jargon show up? Did
+
+the story follow STAR? And just some 
+
+more tips for the interviewers from 
+
+a probing perspective, and these are 
+
+kind of like a best practice. Ask follow
+
+up questions—don't just pose the
+
+question, have them answer, and move on.
+
+It's always important to have that
+
+dialogue with them. You don't want
+
+candidates to rehearse one perfect answer
+
+because that can get them in trouble
+
+if they are trying to answer a
+
+question. They've memorized this perfect
+
+answer, and it doesn't fit what
+
+the question was. And if they're
+
+struggling to respond or articulate
+
+effectively, then you can also ask
+
+them to explain it to a
+
+grandparent. Then, we will
+
+do the 30-second brief introduction. 
+
+Think of it as if you were to get
+
+into an elevator or you were somewhere
+
+with someone for 30–60 seconds.
+
+How would you introduce yourself? So,
+
+who you are, what you've done,
+
+what you want—that call to
+
+action. And then, we will put them
+
+in pairs and have them exchange
+
+their introductions and give feedback,
+
+right? It's going to be important
+
+for them to refine their wording so 
+
+that it sounds authentic, and they
+
+get comfortable with having that
+
+conversation. Is there a clear
+
+introduction, relevant experience, basic
+
+explanation of skills, specific ask or
+
+direction? And have they kept it short—
+
+short and sweet? And then, just a tip 
+
+to share with them to avoid 
+
+over-structuring. It's not about reciting 
+
+STAR mechanically. It's really important 
+
+that they speak naturally and that they 
+
+use their own voice. And that's it. 
+
+It's a very busy, very full 2-hour workshop. 
+
+There's a wrap-up. If you have time, ask 
+
+them for one tip that they will take forward. 
+
+And you know, from the next steps perspective,
+
+they have those daily prompts, that 12-Day
+
+Challenge and peer practice. I would
+
+recommend giving them a peer buddy or
+
+paragon ability partner—whatever
+
+language you like to use with your
+
+group—so that they have a buddy or
+
+someone that they can do the practice
+
+with, and they just don't walk out and
+
+forget about what they've learned.
+
+And then, we thank them. They built their
+
+technical skills, and now, it's time for
+
+them to be able to tell their story.
+
+And that's it for the workshop. I did
+
+want to just expand a little bit on
+
+some of the other information or details
+
+of the facilitator package. So, we have
+
+practice assets, and you will support 
+
+practice using these two. There's the Mock 
+
+Interview Kit and the Scenario Pack. 
+
+And really, the idea here is for you to 
+
+choose scenarios intentionally. I don't 
+
+know if you will be familiar with the 
+
+participants who were in the session. 
+
+So, the idea here is to not always let 
+
+learners pick the easiest option. 
+
+We want them to stretch so that, you 
+
+know, we know that's where the learning 
+
+happens. So, if we can stretch them as 
+
+much as possible, that would be ideal, 
+
+but you will have a couple of different 
+
+scenarios for each topic area. 
+
+The eLearning modules, there are 
+
+three, and they're about 8–10-minutes 
+
+long each. Building Your Personal Cloud 
+
+and IoT Career Story helps learners really
+
+create that concise, adaptable career
+
+story that they can use across
+
+interviews. Adapting to Different
+
+Interview Types—that will help
+
+learners recognize the interview styles
+
+and adjust their storytelling according
+
+to who's doing that interviewing. Cutting
+
+the Jargon is about helping them
+
+recognize when jargon helps and when
+
+it hurts and really practice translating
+
+it into plain language. So,
+
+these are extras and, ideally, will be
+
+very strongly recommended to the
+
+learners. They're things they can do
+
+outside of the class. And also reference
+
+them during the ILT where it's appropriate
+
+so that the learners understand how
+
+everything connects. Then, we have the 
+
+12-Day Challenge, and this is where a 
+
+real behavior change can happen. So, 
+
+the learners will have a short
+
+storytelling challenge each day. So, after
+
+they've left the session, we will ask them,
+
+you know, if they can for the next
+
+12 days, complete one short storytelling
+
+challenge every day. It will take about a
+
+minute to record, maybe a few minutes to
+
+prepare, but the idea is they can do it
+
+on their own or they can do it with
+
+their peer buddy, but take their phone or
+
+their laptop—however they want to do it—
+
+and follow the instructions. So, you can
+
+see here, on Day 1, they're asked to do
+
+a cloud in a post. So, explain cloud 
+
+or IoT in basic terms, like a social 
+
+media post. So, this is similar
+
+to what they did in the warm-up. So,
+
+they're a little bit familiar with this.
+
+So, they're going to record a 1-minute
+
+explanation of one thing they learned in
+
+the course, but explain it as though
+
+they're talking to someone who doesn't
+
+know technology. There are a couple of
+
+tips there that you will see. And the last 
+
+piece for me is really just the Facilitator 
+
+dos and don'ts. You do not need to be an 
+
+expert storyteller to facilitate this workshop. 
+
+Your role is really to create that safe 
+
+focus space where learners can hear themselves
+
+clearly. And if you protect the practice
+
+time and keep the energy high, the design
+
+should do the rest, for you. So, I just 
+
+want to share these tips that I learned 
+
+from facilitating this topic. I will start 
+
+with the dos, and then we will move on to the
+
+don'ts. Set relevance early. It's so
+
+important to anchor storytelling to
+
+interviews, networking, and their
+
+confidence, not theory. Protect practice
+
+time. Like I've said this a few
+
+times throughout, if you're running short, 
+
+shorten discussion before you cut the
+
+practice. It's so important to give them
+
+that opportunity to do that practice in
+
+a safe space. Do model clarity, not
+
+perfection. So, the idea is around
+
+demonstrating simple human language, or
+
+we're having those perfect, polished
+
+right answers. Use guiding
+
+questions. So, I mentioned that earlier.
+
+Ask how would that land with
+
+a hiring manager instead of correcting.
+
+It's really that guiding piece that
+
+we want to do here. Normalize
+
+discomfort. You know, I would ask here 
+
+that you just reinforce that awkwardness 
+
+is part of learning to tell a clearer 
+
+story. This is something that a lot 
+
+of people are not comfortable with, 
+
+not familiar with, and so, it will take 
+
+them time. So, when I say manage airtime 
+
+intentionally, this is about inviting 
+
+those quieter voices to speak up and to
+
+gently limit dominant ones so that
+
+everyone has a chance to participate,
+
+ask questions, share. And reinforcing 
+
+progress, as you know, always important 
+
+to highlight improvement and effort. 
+
+It's not about having these perfect, 
+
+polished, finished stories. It's really 
+
+about the progress they're making. From 
+
+a don't perspective, don't lecture the 
+
+slides. Learners can read. Your value 
+
+really comes in facilitation, not narration. 
+
+Don't overexplain frameworks. The 
+
+structure is a tool. It's not something 
+
+they have to perfectly memorize. And don't fix
+
+the learner stories. Ownership matters so
+
+much here when we talk about their 
+
+personal stories, so coaching will
+
+always be rewriting in this case.
+
+Don't let jargon slide, but also
+
+don't shame it. The idea here
+
+is to translate together without calling
+
+it out as wrong. It's really
+
+just identifying when they're using
+
+jargon and that they have
+
+that awareness. Don't rush debrief or
+
+let them ramble. So, don't rush
+
+a debrief. What we want to do is
+
+keep those reflections focused, but we
+
+also want to make sure that they are
+
+time bound as well. Again, I go back
+
+to protect practice time—so important. And
+
+don't aim for polish in the room. Again,
+
+it's not about having perfect, polished,
+
+exact finished stories or answers necessarily.
+
+The workshop is about building confidence 
+
+and clarity, not having those final exact 
+
+interview answers. And that's it. Thank 
+
+you so much for going through this and for
+
+being willing to facilitate this
+
+workshop. I always really enjoy it
+
+and hope that you find the
+
+tools that we've provided helpful. If
+
+you have any questions, please reach
+
+out to the person who's been identified,
+
+and we will make sure that you receive the
+
+answers you need.
